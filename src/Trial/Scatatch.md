@@ -820,7 +820,7 @@ So that's it, huh?
 ---
 
 **Fujimaru 2:**
-
+R-Right...
  
 
 ---
@@ -1706,6 +1706,7 @@ Now then. Enough fun. The last remnant approaches.
 Fou, fooou! Kyuu! 
  
 **???:**
+——————————————————
  
 **Mash:**
 I sense a Heroic Spirit, or no... 
